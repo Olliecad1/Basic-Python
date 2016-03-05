@@ -37,3 +37,18 @@ print(number * variable)
 variable1 = 'Hello'
 world = ' world'
 print(variable1 + world)
+
+## This is how to use a variables and statements
+
+newVariable = raw_input('Enter a number')
+
+if newVariable == '10':
+	print('Well done your right')
+else:
+	print('your wrong, have another go')
+	print(newVariable)
+	
+	
+
+	
+
